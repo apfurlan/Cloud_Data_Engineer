@@ -20,4 +20,5 @@ Here you will see :
 ---
 
 ### **Observation:**
-The exercises were developed in Google Colab. If you have Pyspark installed in your PC, please disregard the first cell of the .ipynb files.
+The exercises were developed in Google Colab. If you have Pyspark installed in your PC, please disregard the first cell of the .ipynb files
+and path used a long the exercise.
