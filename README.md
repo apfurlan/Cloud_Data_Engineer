@@ -19,6 +19,7 @@ Here you will see :
 
 ---
 
-### **Observation:**
-The exercises were developed in Google Colab. If you have Pyspark installed in your PC, please disregard the first cell of the .ipynb files
+### **Notes:**
+- The exercises were developed in Google Colab. If you have Pyspark installed in your PC, please disregard the first cell of the .ipynb files
 and path used a long the exercise.
+- Due to the size of the Dataset I didn´t upload the file. The dataset used for this exercise can be accessed on the link : https://datasets.imdbws.com/
