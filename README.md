@@ -9,6 +9,7 @@ This repo is structured as follows :
     1. Foundations of Cloud Computing
     2. Architectures
     3. IaC - Infrastructure as Code
+    4. Use Cases
 - **Module 2** - Continous Data Stream Processing
 - **Module 3** - Big Data Technologies - Massive Data Processing 
 - **Module 4** - Scalable Data Achtecture
