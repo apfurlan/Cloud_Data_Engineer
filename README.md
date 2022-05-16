@@ -10,7 +10,7 @@ This repo is structured as follows :
     3. IaC - Infrastructure as Code
     4. Use Cases
 - **Module 2** - Continous Data Stream Processing
-- **Module 3** - Big Data Technologies - Massive Data Processing [.](./Module_3/)
+- **Module 3** - [Big Data Technologies - Massive Data Processing](./Module_3/)
     1. O cenário de Big Data
     2. Introdução ao Apache Spark
     3. Manipulando dados com Spark - Parte I
