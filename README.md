@@ -4,12 +4,12 @@ This repository contians the files of bootcamp [Egenhario/(a) de Dados Cloud](ht
 
 This repo is structured as follows : 
 
-- **Module 1** - Foundations of Cloud Solutions and Data Architecture
+- **Module 1** - [Foundations of Cloud Solutions and Data Architecture](./Module_1/)
     1. Foundations of Cloud Computing
     2. Architectures
     3. IaC - Infrastructure as Code
     4. Use Cases
-- **Module 2** - Continous Data Stream Processing
+- **Module 2** - [Continous Data Stream Processing](./Module_2/)
 - **Module 3** - [Big Data Technologies - Massive Data Processing](./Module_3/)
     1. O cenário de Big Data
     2. Introdução ao Apache Spark
@@ -19,5 +19,5 @@ This repo is structured as follows :
     6. Otimizando Aplicações do Spark
     7. Deploy de Aplicações Spark
     8.  Spark na Nuvem
-- **Module 4** - Scalable Data Achtecture
+- **Module 4** - [Scalable Data Achtecture](./Module_4/)
 
