@@ -12,13 +12,13 @@ This repo is structured as follows :
     4. Use Cases
 - **Module 2** - [Continous Data Stream Processing](./Module_2/)
 - **Module 3** - [Big Data Technologies - Massive Data Processing](./Module_3/)
-    1. O cenário de Big Data
-    2. Introdução ao Apache Spark
-    3. Manipulando dados com Spark - Parte I
-    4. Manipulando dados com Spark - Parte II
+    1. The state of the art of Big Data
+    2. Introduction to Apache Spark
+    3. Manipulating Data with Spark - Part I
+    4. Manipulating Data with Spark - Part II
     5. Spark SQL 
-    6. Otimizando Aplicações do Spark
-    7. Deploy de Aplicações Spark
-    8.  Spark na Nuvem
+    6. Optimizing Spark Aplications
+    7. Deploy Spark Aplications
+    8. Spark  in the Cloud
 - **Module 4** - [Scalable Data Achtecture](./Module_4/)
 
