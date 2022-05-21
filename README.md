@@ -5,6 +5,7 @@ This repository contians the files of module 3 of bootcamp
 from [IGTI](https://www.igti.com.br/). This module was dedicated to studying the processing 
 of massive data by using [Pyspark](https://spark.apache.org/docs/latest/api/python/). 
 The topics covered here will be :
+
 &nbsp;
 1. Manipulating data with Spark: Part 1
 2. Manipulating data with Spark: Part 2
