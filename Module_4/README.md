@@ -1,1 +1,0 @@
-# Scalable Data Achtecture
