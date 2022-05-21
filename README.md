@@ -31,7 +31,9 @@ This module was dedicated to studying the processing of massive data by using [P
 1. Manipulating data with Spark: Part 1.
 2. Manipulating data with Spark: Part 2.
 3. Spark SQL.
-4. Optimizing Spark Aplications .
+4. Optimizing Spark Aplications
+5. Deploy Spark application
+6. Spark in the Cloud
 
 &nbsp;
 
