@@ -7,12 +7,31 @@ of massive data by using [Pyspark](https://spark.apache.org/docs/latest/api/pyth
 The topics covered here will be :
 
 &nbsp;
-1. Manipulating data with Spark: Part 1
-2. Manipulating data with Spark: Part 2
-3. Spark SQL
-4. Optimizing Spark Aplications
-5. Deploy Spark application
-6. Spark in the Cloud
+1. [Manipulating data with Spark: Part 1](./mod03_cap01_1.ipynb)
+    - Dataframes and Datasets
+    - Data types in Spark
+    - Schemas and Dataframe Creation
+    - Reading and Writing Dataframes
+    - Basic Dataframe Operations
+    - Working with Data Types
+2. [Manipulating data with Spark: Part 2](./mod03_cap01_2.ipynb)
+    - Aggregations and Groupings
+    - Window Function
+    - Joins
+    - User Defined Functions
+3. [Spark SQL](./mod03_cap03.ipynb)
+    - Introduction to Spark SQL
+    - Databases and Catalog
+    - Creating Tables and Views
+    - Queries in the Spark SQL
+4. [Optimizing Spark Aplications](./mod03_cap04.ipynb)
+    - Configuring and Scaling Spark
+    - In-memory Data Persistence
+    - Strategies to Partition Data
+    - Repartitioning  Dataframes
+    - Determining which JOIN to use
+5. [Deploy Spark application](./mod03_cap05.ipynb)
+6. [Spark in the Cloud]((./mod03_cap06.ipynb))
 
 &nbsp;
 
