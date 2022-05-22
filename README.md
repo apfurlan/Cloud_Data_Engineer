@@ -1,10 +1,11 @@
 # Massive Data Processing with Spark
 
 This repository contians the files of module 3 of bootcamp 
-[Egenhario/(a) de Dados Cloud](https://www.igti.com.br/bootcamp/engenheiro-de-dados-cloud) 
-from [IGTI](https://www.igti.com.br/). This module is dedicated to studying the processing 
-of massive data by using [Pyspark](https://spark.apache.org/docs/latest/api/python/). 
-The topics covered here will be :
+[Egenhario/(a) de Dados Cloud](https://www.igti.com.br/bootcamp/
+engenheiro-de-dados-cloud) from [IGTI](https://www.igti.com.br/). 
+This module is dedicated to studying the massive processing data 
+using [Pyspark](https://spark.apache.org/docs/latest/api/
+python/). The topics covered here will be :
 
 &nbsp;
 1. [Manipulating data with Spark: Part 1](./mod03_cap01_1.ipynb)
