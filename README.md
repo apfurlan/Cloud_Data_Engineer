@@ -34,6 +34,10 @@ data processing using [Pyspark](https://spark.apache.org/docs/latest/api/python/
 
 &nbsp;
 
+**NOTE :** The files were developed on GoogleColab and therefore, the paths in .ipynb may not make sense inside this repository. Change it to suit your needs. 
+
+&nbsp;
+
 Here you will see : 
  <img align="center" alt="Python" height="50" width="50" src="https://static.cdnlogo.com/logos/g/74/google-cloud.svg">
  <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
